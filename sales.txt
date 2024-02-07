@@ -1,0 +1,16 @@
+
+          Name                  :       Abhinav
+          User Email            :       abc@gmail.com
+          User Phone number     :       213456
+          User Product ID       :       1001
+          Product Name          :       5 Star        
+          Total Bill            :       590.0
+          Time of transaction   :       Thu Feb  8 03:48:36 2024
+
+          Name                  :       Hanish
+          User Email            :       hanish@gmail.com
+          User Phone number     :       3487543
+          User Product ID       :       1004
+          Product Name          :       Chocolate Cake        
+          Total Bill            :       3894.0
+          Time of transaction   :       Thu Feb  8 03:49:17 2024
