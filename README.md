@@ -12,7 +12,4 @@ User-friendly Interface: Provides an intuitive interface for users to interact w
 Python 3.x<br>
 Jupyter Notebook<br>
 JSON library (included in standard Python library)<br>
-## Usage
-Clone the repository to your local machine.<br>
-Open the project directory in Jupyter Notebook.<br>
-Run the inventory_system.ipynb notebook.<br>
+
